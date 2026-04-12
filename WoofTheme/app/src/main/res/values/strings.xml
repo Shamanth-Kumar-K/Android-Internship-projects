@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Woof</string>
+
+    <!-- Dog names -->
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Bella</string>
+    <string name="dog_name_5">Moana</string>
+    <string name="dog_name_6">Tzeitel</string>
+    <string name="dog_name_7">Leroy</string>
+    <string name="dog_name_8">Yoshi</string>
+
+    <!-- Dog ages -->
+    <string name="years_old">%1$d years old</string>
+
+    <!-- Dog hobbies -->
+    <string name="dog_description_1">Eating treats and playing with balls.</string>
+    <string name="dog_description_2">Barking at neighbors and chasing squirrels.</string>
+    <string name="dog_description_3">Taking long naps and cuddling.</string>
+    <string name="dog_description_4">Going for walks and swimming.</string>
+    <string name="dog_description_5">Playing hide and seek with toys.</string>
+    <string name="dog_description_6">Learning new tricks and catching frisbees.</string>
+    <string name="dog_description_7">Digging holes and getting muddy.</string>
+    <string name="dog_description_8">Sleeping in the sun and being lazy.</string>
+</resources>
