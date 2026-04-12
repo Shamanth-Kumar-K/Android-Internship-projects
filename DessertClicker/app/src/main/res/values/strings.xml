@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dessert Clicker</string>
+    <string name="share">Share</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="dessert_sold">Desserts Sold</string>
+    <string name="share_text">I just sold %1$d desserts and made %2$d dollars!</string>
+    <string name="sharing_not_available">Sharing is not available on this device</string>
+</resources>
