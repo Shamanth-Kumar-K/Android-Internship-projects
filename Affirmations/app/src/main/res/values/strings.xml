@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I am deserving of respect and kindness.</string>
+    <string name="affirmation2">I am at peace with who I am.</string>
+    <string name="affirmation3">I am confident in my abilities.</string>
+    <string name="affirmation4">I am surrounded by love and support.</string>
+    <string name="affirmation5">I am capable of achieving my goals.</string>
+    <string name="affirmation6">I am resilient and can overcome any challenge.</string>
+    <string name="affirmation7">I am worthy of happiness and success.</string>
+    <string name="affirmation8">I am constantly growing and learning.</string>
+    <string name="affirmation9">I am grateful for the abundance in my life.</string>
+    <string name="affirmation10">I am at peace with my past and excited for my future.</string>
+</resources>
