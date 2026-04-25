@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sports</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Sports</string>
+    <string name="detail_fragment_label">Sport Info</string>
+
+    <string name="baseball">Baseball</string>
+    <string name="badminton">Badminton</string>
+    <string name="basketball">Basketball</string>
+    <string name="bowling">Bowling</string>
+    <string name="cycling">Cycling</string>
+    <string name="golf">Golf</string>
+    <string name="running">Running</string>
+    <string name="soccer">Soccer</string>
+    <string name="swimming">Swimming</string>
+    <string name="table_tennis">Table Tennis</string>
+    <string name="tennis">Tennis</string>
+
+    <string name="baseball_subtitle">Bat and ball game played between two teams of nine players.</string>
+    <string name="badminton_subtitle">Racket sport played using racquets to hit a shuttlecock across a net.</string>
+    <string name="basketball_subtitle">Team sport played on a rectangular court by two teams of five players.</string>
+    <string name="bowling_subtitle">Sport or leisure activity in which a player rolls a ball towards pins.</string>
+    <string name="cycling_subtitle">Sport or activity of riding a bicycle.</string>
+    <string name="golf_subtitle">Club-and-ball sport in which players use clubs to hit balls into holes.</string>
+    <string name="running_subtitle">Method of terrestrial locomotion allowing humans and other animals to move rapidly.</string>
+    <string name="soccer_subtitle">Team sport played with a spherical ball between two teams of eleven players.</string>
+    <string name="swimming_subtitle">Self-propulsion of a person through water, or other liquid.</string>
+    <string name="table_tennis_subtitle">Sport in which two or four players hit a lightweight ball back and forth.</string>
+    <string name="tennis_subtitle">Racket sport that can be played individually against a single opponent.</string>
+
+    <string name="baseball_detail">Baseball is a bat-and-ball game played between two opposing teams who take turns batting and fielding. The game proceeds when a player on the fielding team, called the pitcher, throws a ball which a player on the batting team tries to hit with a bat. The objective of the offensive team (batting team) is to hit the ball into the field of play, allowing its players to run the bases, having them advance counter-clockwise around four bases to score what are called "runs". The objective of the defensive team (fielding team) is to prevent batters from becoming runners, and to prevent runners\' advance around the bases. A run is scored when a runner legally advances around the bases in order and touches home plate.</string>
+    <string name="badminton_detail">Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are "singles" (with one player per side) and "doubles" (with two players per side). Badminton is often played as a casual outdoor activity in a yard or on a beach; formal games are played on a rectangular indoor court. Points are scored by striking the shuttlecock with the racquet and landing it within the opposing side\'s half of the court.</string>
+    <string name="basketball_detail">Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender\'s hoop while preventing the opposing team from shooting through their own hoop. A field goal is worth two points, unless made from behind the three-point line, when it is worth three. After a foul, timed play stops and the player fouled or designated to shoot a technical foul is given one, two or three one-point free throws. The team with the most points at the end of the game wins, but if regulation play expires with the score tied, an additional period of play (overtime) is mandated.</string>
+    <string name="bowling_detail">Bowling is a target sport and recreational activity in which a player rolls a ball toward pins (in pin bowling) or another target (in target bowling). The term bowling usually refers to ten-pin bowling, though in the United Kingdom and Commonwealth countries, bowling can also refer to lawn bowls. In pin bowling, the goal is to knock over pins at the end of a lane, with either two or three balls allowed per frame to knock down all ten pins. In target bowling, the aim is usually to get the ball as close to a mark as possible. The surface of bowling lanes is usually made of wood or synthetic material.</string>
+    <string name="cycling_detail">Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, exercise or sport. People engaged in cycling are referred to as "cyclists", "bicyclists", or "bikers". Apart from two-wheeled bicycles, "cycling" also includes the riding of unicycles, tricycles, quadricycles, recumbent and similar human-powered vehicles (HPVs). Bicycles were introduced in the 19th century and now number approximately one billion worldwide. They are the principal means of transportation in many parts of the world.</string>
+    <string name="golf_detail">Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of holes on a course in as few strokes as possible. Golf, unlike most ball games, cannot and does not use a standardized playing area, and coping with the varied terrains encountered on different courses is a key part of the game. The game at the usual level is played on a course with an arranged progression of 18 holes, though recreational courses can be smaller, often having nine holes. Each hole on the course must contain a teeing ground to start from, and a putting green containing the actual hole or cup.</string>
+    <string name="running_detail">Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot. Running is a type of gait characterized by an aerial phase in which all feet are above the ground (though there are exceptions). This is in contrast to walking, where one foot is always in contact with the ground, legs are kept mostly straight and the center of gravity vaults over the stance leg or legs in an inverted pendulum fashion. A characteristic feature of a running body from the viewpoint of spring-mass mechanics is that changes in kinetic and potential energy within a stride occur simultaneously, with energy storage accomplished by springy tendons and passive muscle elasticity.</string>
+    <string name="soccer_detail">Association football, more commonly known as football or soccer, is a team sport played with a spherical ball between two teams of 11 players. It is played by approximately 250 million players in over 200 countries and dependencies, making it the world\'s most popular sport. The game is played on a rectangular field called a pitch with a goal at each end. The object of the game is to outscore the opposition by moving the ball beyond the goal line into the opposing goal. The team with the higher number of goals wins the game.</string>
+    <string name="swimming_detail">Swimming is an individual or team racing sport that requires the use of one\'s entire body to move through water. The sport takes place in pools or open water (e.g., in a sea or lake). Competitive swimming is one of the most popular Olympic sports, with varied distance events in butterfly, backstroke, breaststroke, freestyle, and individual medley. In addition to these individual events, four swimmers can take part in either a freestyle or medley relay. A medley relay consists of four swimmers who will each swim a different stroke, ordered as backstroke, breaststroke, butterfly and freestyle.</string>
+    <string name="table_tennis_detail">Table tennis, also known as ping-pong and whiff-whaff, is a sport in which two or four players hit a lightweight ball, also known as the ping-pong ball, back and forth across a table using small rackets. The game takes place on a hard table divided by a net. Except for the initial serve, the rules are generally as follows: players must allow a ball played toward them to bounce one time on their side of the table, and must return it so that it bounces on the opposite side at least once. Points are scored when a player fails to return the ball within the rules. Play is fast and demands quick reactions.</string>
+    <string name="tennis_detail">Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket that is strung with cord to strike a hollow rubber ball covered with felt over or around a net and into the opponent\'s court. The object of the game is to maneuver the ball in such a way that the opponent is not able to play a valid return. The player who is unable to return the ball will not gain a point, while the opposite player will.</string>
+
+    <plurals name="player_count_caption">
+        <item quantity="one">1 Player</item>
+        <item quantity="other">%1$d Players</item>
+    </plurals>
+    <string name="olympic_caption">Olympic</string>
+
+    <string name="back_button">Back</string>
+</resources>
